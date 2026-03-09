@@ -1,6 +1,8 @@
 Credit Card Fraud Detection
 A machine learning project for detecting fraudulent credit card transactions using supervised classification on an imbalanced dataset.
-Overview
+
+Overview:
+
 This GROUP project as part of the Rice Machine Learning Club builds a fraud detection pipeline on a dataset of ~42,800 transactions (99% non-fraudulent, 1% fraudulent). It covers end-to-end data preprocessing, feature engineering, exploratory data analysis, and model training.
 Dataset
 
